@@ -3,3 +3,5 @@ host = ''
 db = ''
 user = ''
 password = ''
+[graphhopper]
+key = ''
